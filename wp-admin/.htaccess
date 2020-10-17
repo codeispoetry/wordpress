@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Bitte loggen Sie sich ein"
+AuthUserFile <ABSOLUTER_PFAD>.htpasswd
+Require valid-user
